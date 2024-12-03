@@ -1,3 +1,0 @@
-# mygit
-# project
-# project
